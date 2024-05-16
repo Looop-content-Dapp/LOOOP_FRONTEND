@@ -35,7 +35,7 @@ const Footer = () => {
             Join the community
           </p>
           <div className="flex pt-4 items-center">
-            <a href="https://twitter.com/Loop_dapp" target="_blank">
+            <a href="https://twitter.com/Looop_music" target="_blank">
               <img
                 src={discord}
                 alt=""

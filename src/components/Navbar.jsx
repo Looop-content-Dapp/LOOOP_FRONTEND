@@ -15,7 +15,7 @@ const Navbar = () => {
         <h3 className="">What is looop?</h3>
       </div>
       <div className="flex">
-        <a href="https://twitter.com/Loop_dapp" target="_blank">
+        <a href="https://twitter.com/Looop_music" target="_blank">
           <img
             src={discord}
             alt=""
